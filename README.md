@@ -114,7 +114,7 @@ Los modelos se descargan automáticamente mediante Ultralytics.
 
 # Dataset esperado
 
-Los videos deben ir dentro de:
+El primer frame de los videos debe ser el frame a analizar para hacer la detección de los jugadores y cada video debe ir dentro de:
 
 ```text
 videos/
