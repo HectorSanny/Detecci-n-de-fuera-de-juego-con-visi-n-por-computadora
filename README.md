@@ -162,21 +162,21 @@ Formatos soportados:
 
 # Convención de nombres
 
-El nombre del archivo debe indicar dirección de ataque.
+El nombre del archivo debe indicar dirección de ataque y la decisión real.
 
 ## Ataque hacia la derecha
 
 ```text
-jugada1_der.mp4
+onside1_der.mp4
 ```
 
 ## Ataque hacia la izquierda
 
 ```text
-jugada2_izq.mp4
+offside2_izq.mp4
 ```
 
-Esto permite identificar automáticamente cuál es el punto más adelantado de cada jugador.
+Esto permite identificar automáticamente cuál es el punto más adelantado de cada jugador y para verificar si la decisión que tomó fue correcta.
 
 ---
 
