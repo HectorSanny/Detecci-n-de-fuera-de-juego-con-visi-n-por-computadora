@@ -80,7 +80,7 @@ ProyectoVisionData/
 ## 1. Clonar repositorio
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/HectorSanny/Detecci-n-de-fuera-de-juego-con-visi-n-por-computadora
 cd ProyectoVisionData
 ```
 
